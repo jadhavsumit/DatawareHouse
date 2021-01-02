@@ -1,0 +1,678 @@
+"Industry","Fuel Used","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016"
+"Agriculture - stationary combustion","Fuel oil",0.01,0.02,0.01,0.01,0.02,0.01,"0.01",0.02,0.02,0.02
+"Agriculture - stationary combustion","Natural gas",0.17,0.12,0.13,0.12,0.12,0.1,"0.09",0.09,0.08,0.08
+"Aircraft - international take off and landing","Aviation turbine fuel",1.07,0.98,0.93,0.89,0.93,0.9,"0.91",0.91,0.92,0.95
+"Shipping - coastal","Fuel oil",0.11,0.1,0.09,0.08,0.08,0.07,"7.0000000000000007E-2",0.07,0.03,0.02
+"Shipping - coastal","Fuel oil",0.66,0.63,0.59,0.51,0.5,0.46,"0.42",0.44,0.16,0.15
+"Shipping - coastal","Gas oil",0.89,0.84,0.81,0.8,0.73,0.65,"0.6",0.61,0.89,0.86
+"Shipping - coastal","Gas oil",0.48,0.45,0.44,0.43,0.39,0.35,"0.32",0.33,0.48,0.46
+"Coke production","Blast furnace gas",0.06,0.05,0.04,0.06,0.06,0.06,"0.06",0.06,0.06,0.05
+"Coke production","Coal",4.3,4.25,3.91,3.92,3.97,3.67,"3.88",3.73,2.72,1.33
+"Coke production","Coke oven gas",0.36,0.37,0.33,0.33,0.33,0.33,"0.31",0.32,0.27,0.09
+"Collieries - combustion","Colliery methane",0.06,0.06,0.06,0.07,0.06,0.04,"0.04",0.03,0.03,0.04
+"Domestic combustion","Anthracite",0.15,0.14,0.18,0.18,0.17,0.16,"0.21",0.17,0.17,0.15
+"Domestic combustion","Burning oil",2.32,2.39,2.42,2.7,2.1,2.12,"2.2599999999999998",2.02,2.03,2.02
+"Domestic combustion","Coal",0.34,0.38,0.34,0.36,0.36,0.34,"0.28000000000000003",0.25,0.25,0.26
+"Domestic combustion","Gas oil",0.17,0.16,0.13,0.17,0.15,0.14,"0.14000000000000001",0.14,0.15,0.15
+"Domestic combustion","LPG",0.28,0.37,0.35,0.45,0.32,0.33,"0.34",0.24,0.23,0.24
+"Domestic combustion","Natural gas",30.34,30.91,29.68,33.5,26.55,29.51,"29.62",24.39,25.59,26.77
+"Domestic combustion","Petroleum coke",0.11,0.12,0.02,0.02,0.03,0.06,"0.04",0.07,0.08,0.07
+"Domestic combustion","SSF",0.18,0.23,0.21,0.24,0.21,0.2,"0.24",0.19,0.18,0.18
+"Fishing vessels","Fuel oil",0.03,0.03,0.02,0.02,0.02,0.02,"0.02",0.02,0.01,0.01
+"Fishing vessels","Gas oil",0.22,0.21,0.21,0.22,0.21,0.23,"0.23",0.27,0.27,0.25
+"Gas production","Natural gas",0.56,0.61,0.6,0.86,0.75,0.55,"0.52",0.51,0.59,0.6
+"Blast furnaces","Blast furnace gas",0.38,0.35,0.27,0.25,0.23,0.25,"0.32",0.35,0.33,0.25
+"Blast furnaces","Coal",0.9,0.85,0.63,0.71,0.72,0.72,"1.02",1.1,1.12,0.99
+"Blast furnaces","Coke",3.13,3.11,2.3,2.09,1.88,2.11,"2.64",2.55,2.32,1.52
+"Blast furnaces","Coke oven gas",0.08,0.07,0.05,0.03,0.04,0.06,"0.08",0.08,0.06,0.02
+"Blast furnaces","Natural gas",0.06,0.06,0.04,0.06,0.04,0.02,"0.03",0.03,0.03,0.03
+"Sinter production","Coke",0.52,0.44,0.33,0.3,0.28,0.33,"0.44",0.44,0.37,0.22
+"Iron and steel - combustion plant","Blast furnace gas",0.83,0.72,0.59,0.55,0.53,0.63,"0.77",0.76,0.67,0.49
+"Iron and steel - combustion plant","Coal",0.05,0.05,0.04,0.05,0.04,0.04,"0.04",0.04,0.03,0.03
+"Iron and steel - combustion plant","Coke oven gas",0.34,0.33,0.31,0.36,0.32,0.29,"0.3",0.27,0.23,0.2
+"Iron and steel - combustion plant","Fuel oil",0.17,0.14,0.15,0.06,0.03,0.03,"0.01",0.01,0.02,0.01
+"Iron and steel - combustion plant","Natural gas",0.1,0.1,0.08,0.09,0.08,0.07,"0.08",0.08,0.08,0.06
+"Iron and steel - combustion plant","Natural gas",0.13,0.13,0.09,0.11,0.1,0.09,"0.09",0.1,0.1,0.08
+"Iron and steel - combustion plant","Natural gas",0.43,0.43,0.32,0.37,0.35,0.31,"0.32",0.33,0.32,0.26
+"Miscellaneous industrial/commercial combustion","Fuel oil",0.03,0.04,0.03,0.04,0.04,0.03,"0.03",0.04,0.04,0.04
+"Miscellaneous industrial/commercial combustion","Fuel oil",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Miscellaneous industrial/commercial combustion","Gas oil",0.03,0.01,0.01,0.02,0.01,0.01,"0.02",0.02,0.02,0.02
+"Miscellaneous industrial/commercial combustion","Natural gas",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Miscellaneous industrial/commercial combustion","Natural gas",0.06,0.07,0.06,0.06,0.05,0.06,"7.0000000000000007E-2",0.06,0.06,0.07
+"Miscellaneous industrial/commercial combustion","Natural gas",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Miscellaneous industrial/commercial combustion","Natural gas",0.1,0.12,0.1,0.11,0.1,0.12,"0.12",0.11,0.12,0.12
+"Miscellaneous industrial/commercial combustion","Natural gas",0.05,0.07,0.06,0.06,0.06,0.07,"7.0000000000000007E-2",0.06,0.07,0.07
+"Miscellaneous industrial/commercial combustion","Natural gas",0.23,0.29,0.23,0.25,0.21,0.24,"0.25",0.21,0.23,0.24
+"Miscellaneous industrial/commercial combustion","Natural gas",0.47,0.58,0.46,0.49,0.42,0.48,"0.49",0.41,0.44,0.46
+"Miscellaneous industrial/commercial combustion","Natural gas",0.6,0.77,0.62,0.68,0.6,0.69,"0.72",0.62,0.68,0.71
+"Miscellaneous industrial/commercial combustion","Natural gas",0.01,0.02,0.01,0.02,0.01,0.02,"0.02",0.02,0.02,0.02
+"Miscellaneous industrial/commercial combustion","Natural gas",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Miscellaneous industrial/commercial combustion","Natural gas",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Miscellaneous industrial/commercial combustion","Natural gas",0.03,0.04,0.03,0.04,0.03,0.04,"0.04",0.03,0.04,0.04
+"Miscellaneous industrial/commercial combustion","Natural gas",0.01,0.02,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Miscellaneous industrial/commercial combustion","Natural gas",0.1,0.13,0.11,0.12,0.11,0.12,"0.13",0.11,0.12,0.13
+"Miscellaneous industrial/commercial combustion","Natural gas",0.07,0.09,0.07,0.08,0.07,0.09,"0.09",0.08,0.09,0.09
+"Miscellaneous industrial/commercial combustion","Natural gas",0.38,0.48,0.38,0.42,0.36,0.42,"0.44",0.37,0.41,0.42
+"Miscellaneous industrial/commercial combustion","Natural gas",0.72,0.91,0.72,0.78,0.67,0.77,"0.79",0.67,0.72,0.75
+"Miscellaneous industrial/commercial combustion","Natural gas",0.05,0.06,0.05,0.05,0.05,0.05,"0.05",0.05,0.05,0.05
+"Miscellaneous industrial/commercial combustion","Natural gas",0.05,0.07,0.06,0.06,0.05,0.06,"7.0000000000000007E-2",0.06,0.06,0.07
+"Miscellaneous industrial/commercial combustion","Natural gas",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Miscellaneous industrial/commercial combustion","Natural gas",0.04,0.05,0.04,0.04,0.03,0.04,"0.04",0.03,0.03,0.03
+"Miscellaneous industrial/commercial combustion","Natural gas",0.06,0.07,0.06,0.07,0.06,0.08,"0.08",0.07,0.08,0.08
+"Miscellaneous industrial/commercial combustion","Natural gas",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Miscellaneous industrial/commercial combustion","Natural gas",0.18,0.23,0.19,0.2,0.18,0.2,"0.21",0.18,0.2,0.2
+"Miscellaneous industrial/commercial combustion","Natural gas",0.03,0.03,0.03,0.03,0.03,0.03,"0.03",0.03,0.03,0.03
+"Miscellaneous industrial/commercial combustion","Natural gas",0.05,0.06,0.05,0.05,0.04,0.05,"0.05",0.04,0.04,0.05
+"Miscellaneous industrial/commercial combustion","Natural gas",0.06,0.08,0.06,0.07,0.06,0.07,"7.0000000000000007E-2",0.06,0.07,0.07
+"Miscellaneous industrial/commercial combustion","Natural gas",0.11,0.13,0.1,0.1,0.08,0.09,"0.09",0.07,0.08,0.07
+"Miscellaneous industrial/commercial combustion","Natural gas",0.09,0.12,0.09,0.1,0.09,0.1,"0.11",0.09,0.1,0.1
+"Miscellaneous industrial/commercial combustion","Natural gas",0.08,0.11,0.08,0.09,0.08,0.09,"0.09",0.07,0.08,0.08
+"Miscellaneous industrial/commercial combustion","Natural gas",0.02,0.03,0.03,0.03,0.02,0.03,"0.03",0.03,0.03,0.03
+"Miscellaneous industrial/commercial combustion","Natural gas",0.05,0.07,0.06,0.06,0.06,0.07,"7.0000000000000007E-2",0.06,0.07,0.07
+"Miscellaneous industrial/commercial combustion","Natural gas",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Miscellaneous industrial/commercial combustion","Natural gas",0.05,0.07,0.06,0.06,0.05,0.06,"0.06",0.06,0.06,0.06
+"Miscellaneous industrial/commercial combustion","Natural gas",0.02,0.03,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Miscellaneous industrial/commercial combustion","Natural gas",0.02,0.02,0.02,0.02,0.01,0.02,"0.02",0.01,0.01,0.01
+"Miscellaneous industrial/commercial combustion","Natural gas",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Miscellaneous industrial/commercial combustion","Natural gas",0.03,0.04,0.03,0.03,0.02,0.03,"0.03",0.02,0.03,0.03
+"Miscellaneous industrial/commercial combustion","Natural gas",0.1,0.13,0.11,0.12,0.11,0.13,"0.14000000000000001",0.13,0.14,0.15
+"Miscellaneous industrial/commercial combustion","Natural gas",0.06,0.07,0.06,0.06,0.06,0.06,"7.0000000000000007E-2",0.06,0.06,0.07
+"Miscellaneous industrial/commercial combustion","Natural gas",0.02,0.03,0.02,0.02,0.02,0.03,"0.03",0.02,0.03,0.03
+"Miscellaneous industrial/commercial combustion","Natural gas",0.05,0.07,0.05,0.06,0.05,0.06,"0.06",0.05,0.06,0.06
+"Miscellaneous industrial/commercial combustion","Natural gas",0.25,0.33,0.27,0.29,0.26,0.3,"0.32",0.28,0.3,0.32
+"Miscellaneous industrial/commercial combustion","Natural gas",0.13,0.16,0.13,0.14,0.12,0.14,"0.15",0.13,0.14,0.14
+"Miscellaneous industrial/commercial combustion","Natural gas",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Miscellaneous industrial/commercial combustion","Natural gas",0.16,0.2,0.16,0.18,0.16,0.19,"0.2",0.17,0.19,0.2
+"Upstream Oil Production - fuel combustion","Gas oil",0.42,0.48,0.48,0.5,0.53,0.62,"0.6",0.64,0.6,0.59
+"Upstream Oil Production - fuel combustion","Natural gas",3.97,3.7,3.72,3.71,3.24,2.9,"2.66",2.57,3,3.1
+"Other industrial combustion","Burning oil",0.04,0.04,0.04,0.04,0.03,0.03,"0.04",0.03,0.03,0.04
+"Other industrial combustion","Burning oil",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Other industrial combustion","Burning oil",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Other industrial combustion","Burning oil",0.05,0.05,0.05,0.05,0.04,0.04,"0.04",0.04,0.04,0.04
+"Other industrial combustion","Burning oil",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Other industrial combustion","Burning oil",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Other industrial combustion","Burning oil",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Other industrial combustion","Burning oil",0.03,0.03,0.03,0.03,0.03,0.03,"0.03",0.03,0.03,0.03
+"Other industrial combustion","Burning oil",0.06,0.06,0.07,0.07,0.06,0.06,"0.06",0.06,0.06,0.06
+"Other industrial combustion","Burning oil",0.04,0.04,0.04,0.05,0.04,0.04,"0.04",0.04,0.04,0.04
+"Other industrial combustion","Burning oil",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Other industrial combustion","Burning oil",0.09,0.09,0.1,0.1,0.09,0.09,"0.09",0.08,0.08,0.09
+"Other industrial combustion","Burning oil",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Other industrial combustion","Burning oil",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Other industrial combustion","Burning oil",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Other industrial combustion","Burning oil",0.07,0.07,0.07,0.07,0.06,0.06,"0.06",0.06,0.06,0.06
+"Other industrial combustion","Burning oil",0.03,0.03,0.04,0.04,0.03,0.03,"0.03",0.03,0.03,0.03
+"Other industrial combustion","Burning oil",0.05,0.05,0.05,0.05,0.04,0.05,"0.05",0.04,0.04,0.05
+"Other industrial combustion","Burning oil",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Other industrial combustion","Burning oil",0.03,0.03,0.03,0.03,0.03,0.03,"0.03",0.03,0.03,0.03
+"Other industrial combustion","Burning oil",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Other industrial combustion","Burning oil",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Other industrial combustion","Burning oil",0.06,0.06,0.06,0.06,0.05,0.05,"0.05",0.05,0.05,0.05
+"Other industrial combustion","Burning oil",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Other industrial combustion","Burning oil",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Other industrial combustion","Burning oil",0.03,0.03,0.03,0.03,0.02,0.02,"0.02",0.02,0.02,0.02
+"Other industrial combustion","Burning oil",0.16,0.16,0.16,0.16,0.14,0.14,"0.15",0.14,0.14,0.15
+"Other industrial combustion","Burning oil",0.09,0.09,0.09,0.09,0.08,0.08,"0.09",0.08,0.08,0.09
+"Other industrial combustion","Burning oil",0.2,0.2,0.2,0.21,0.18,0.19,"0.19",0.18,0.18,0.19
+"Other industrial combustion","Burning oil",0.02,0.02,0.03,0.03,0.02,0.02,"0.02",0.02,0.02,0.02
+"Other industrial combustion","Burning oil",0.03,0.03,0.04,0.04,0.03,0.03,"0.03",0.03,0.03,0.03
+"Other industrial combustion","Burning oil",0.03,0.03,0.03,0.03,0.03,0.03,"0.03",0.03,0.03,0.03
+"Other industrial combustion","Burning oil",0.13,0.13,0.14,0.14,0.12,0.12,"0.13",0.12,0.12,0.13
+"Other industrial combustion","Coal",0.04,0.07,0.06,0.05,0.05,0.05,"0.05",0.05,0.04,0.04
+"Other industrial combustion","Coal",0.12,0.19,0.19,0.38,0.28,0.27,"0.46",0.51,0.44,0.3
+"Other industrial combustion","Coal",0.03,0.05,0.05,0.05,0.05,0.06,"0.06",0.06,0.05,0.04
+"Other industrial combustion","Fuel oil",0.02,0.12,0.18,0.23,0.09,0.02,"0.01",0.06,0.06,0.07
+"Other industrial combustion","Gas oil",0.02,0.04,0.03,0.03,0.02,0.01,"0.01",0.02,0.02,0.02
+"Other industrial combustion","Gas oil",0.01,0.02,0.01,0.02,0.01,0.01,"0.01",0.01,0.02,0.01
+"Other industrial combustion","LPG",0.1,0.11,0.1,0.12,0.11,0.11,"0.09",0.09,0.1,0.1
+"Other industrial combustion","LPG",0.05,0.04,0.04,0.04,0.04,0.03,"0.01",0.03,0.05,0.05
+"Other industrial combustion","LPG",0.04,0.03,0.02,0.02,0.03,0.02,"0.01",0.02,0.03,0.03
+"Other industrial combustion","LPG",0.03,0.03,0.02,0.02,0.03,0.02,"0.01",0.02,0.03,0.03
+"Other industrial combustion","LPG",0.03,0.02,0.02,0.02,0.02,0.01,"0.01",0.02,0.03,0.03
+"Other industrial combustion","LPG",0.04,0.03,0.03,0.03,0.03,0.02,"0.01",0.03,0.04,0.04
+"Other industrial combustion","LPG",0.04,0.03,0.03,0.03,0.03,0.02,"0.01",0.02,0.03,0.03
+"Other industrial combustion","LPG",0.21,0.16,0.15,0.14,0.17,0.1,"0.06",0.13,0.18,0.19
+"Other industrial combustion","LPG",0.06,0.05,0.04,0.04,0.05,0.03,"0.02",0.04,0.06,0.06
+"Other industrial combustion","LPG",0.02,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.02,0.02
+"Other industrial combustion","LPG",0.03,0.02,0.02,0.02,0.02,0.01,"0.01",0.02,0.02,0.02
+"Other industrial combustion","LPG",0.03,0.02,0.02,0.02,0.03,0.02,"0.01",0.02,0.03,0.03
+"Other industrial combustion","LPG",0.02,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.02,0.02
+"Other industrial combustion","LPG",0.03,0.02,0.02,0.02,0.03,0.02,"0.01",0.02,0.03,0.03
+"Other industrial combustion","Natural gas",0.11,0.14,0.12,0.09,0.08,0.07,"7.0000000000000007E-2",0.07,0.07,0.07
+"Other industrial combustion","Natural gas",0.43,0.44,0.3,0.28,0.29,0.26,"0.26",0.25,0.24,0.22
+"Other industrial combustion","Natural gas",0.08,0.08,0.14,0.13,0.14,0.12,"0.12",0.12,0.11,0.11
+"Other industrial combustion","Natural gas",0.02,0.02,0.02,0.02,0.02,0.01,"0.02",0.01,0.01,0.01
+"Other industrial combustion","Natural gas",0.19,0.13,0.1,0.17,0.15,0.14,"0.14000000000000001",0.13,0.12,0.12
+"Other industrial combustion","Natural gas",0.13,0.08,0.07,0.12,0.11,0.1,"0.09",0.09,0.09,0.08
+"Other industrial combustion","Natural gas",0.29,0.19,0.16,0.27,0.25,0.23,"0.22",0.21,0.2,0.19
+"Other industrial combustion","Natural gas",0.9,1.24,1.06,0.73,0.64,0.53,"0.55000000000000004",0.54,0.53,0.58
+"Other industrial combustion","Natural gas",0.25,0.34,0.29,0.2,0.18,0.15,"0.15",0.15,0.15,0.16
+"Other industrial combustion","Natural gas",0.37,0.32,0.25,0.31,0.32,0.31,"0.3",0.29,0.29,0.29
+"Other industrial combustion","Natural gas",0.03,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Other industrial combustion","Natural gas",0.15,0.13,0.11,0.11,0.11,0.1,"0.11",0.1,0.11,0.13
+"Other industrial combustion","Natural gas",0.2,0.17,0.13,0.13,0.13,0.13,"0.13",0.13,0.14,0.16
+"Other industrial combustion","Natural gas",0.25,0.22,0.16,0.2,0.21,0.2,"0.2",0.19,0.18,0.19
+"Other industrial combustion","Natural gas",0.53,0.22,0.18,0.43,0.47,0.46,"0.51",0.49,0.5,0.53
+"Other industrial combustion","Natural gas",0.04,0.02,0.01,0.03,0.04,0.04,"0.04",0.04,0.04,0.04
+"Other industrial combustion","Natural gas",0.15,0.06,0.05,0.12,0.13,0.13,"0.14000000000000001",0.14,0.14,0.15
+"Other industrial combustion","Natural gas",0.03,0.01,0.01,0.02,0.03,0.02,"0.03",0.03,0.03,0.03
+"Other industrial combustion","Natural gas",0.1,0.06,0.04,0.06,0.06,0.05,"0.05",0.05,0.05,0.05
+"Other industrial combustion","Natural gas",0.07,0.05,0.05,0.09,0.08,0.07,"7.0000000000000007E-2",0.07,0.06,0.06
+"Other industrial combustion","Natural gas",0.03,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Other industrial combustion","Natural gas",0.02,0.01,0.01,0.02,0.02,0.01,"0.01",0.01,0.01,0.01
+"Other industrial combustion","Natural gas",0.21,0.43,0.35,0.27,0.27,0.24,"0.26",0.25,0.25,0.27
+"Power stations","Coal",31.99,28.99,23.79,24.78,25.23,33.66,"31.33",23.95,18.33,7.52
+"Power stations","Natural gas",27.5,29.62,28.21,29.72,23.86,15.85,"15.06",16.33,15.99,23.35
+"Public sector combustion","Coal",0.1,0.1,0.1,0.1,0.1,0.09,"0.1",0.1,0.08,0.09
+"Public sector combustion","Fuel oil",0.02,0.03,0.02,0.02,0.03,0.02,"0.01",0.01,0.02,0.02
+"Public sector combustion","Fuel oil",0.02,0.03,0.02,0.01,0.02,0.01,"0.01",0.01,0.01,0.01
+"Public sector combustion","Natural gas",1.24,1.1,0.97,0.93,0.85,1.1,"0.95",0.77,0.8,0.81
+"Public sector combustion","Natural gas",0.06,0.06,0.05,0.05,0.04,0.05,"0.04",0.03,0.03,0.03
+"Public sector combustion","Natural gas",1.18,1.32,1.2,1.37,1.07,1.02,"1.1399999999999999",0.88,0.88,0.89
+"Public sector combustion","Natural gas",1.02,1.18,1.16,1.25,0.96,1.12,"1.27",1.19,1.27,1.29
+"Public sector combustion","Natural gas",0.23,0.25,0.21,0.25,0.23,0.29,"0.27",0.23,0.24,0.25
+"Public sector combustion","Natural gas",0.28,0.29,0.26,0.3,0.27,0.34,"0.32",0.27,0.29,0.29
+"Refineries - combustion","LPG",0.05,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Refineries - combustion","Naphtha",0.1,0.09,0.01,0.18,0.11,0.21,"0.12",0.19,0.14,0.1
+"Refineries - combustion","Natural gas",1.03,0.73,0.71,0.88,1.08,1.05,"1.08",1.21,1.11,1.1
+"Refineries - combustion","OPG",3.04,3.92,3.85,3.77,3.8,2.99,"3.01",2.74,2.62,2.84
+"Solid smokeless fuel production","Coal",0.04,0.05,0.03,0.03,0.04,0.02,"0.04",0.04,0.03,0.03
+"Solid smokeless fuel production","Coal",0.15,0.21,0.13,0.13,0.14,0.1,"0.14000000000000001",0.14,0.12,0.12
+"Agriculture - mobile machinery","Gas oil",1.23,1.2,1.23,1.24,1.25,1.29,"1.27",1.28,1.33,1.34
+"Aircraft -  military","Aviation turbine fuel",1,0.83,0.74,0.7,0.68,0.63,"0.56999999999999995",0.51,0.42,0.39
+"Aircraft - support vehicles","Gas oil",0.16,0.16,0.15,0.14,0.15,0.15,"0.16",0.16,0.17,0.17
+"Autogenerators","Natural gas",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Autogenerators","Natural gas",0.03,0.02,0.02,0.03,0.02,0.02,"0.03",0.03,0.02,0.02
+"Autogenerators","Natural gas",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Autogenerators","Natural gas",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Autogenerators","Natural gas",0.04,0.03,0.03,0.03,0.03,0.03,"0.03",0.03,0.03,0.03
+"Autogenerators","Natural gas",0.04,0.04,0.04,0.04,0.04,0.04,"0.04",0.04,0.04,0.04
+"Autogenerators","Natural gas",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Autogenerators","Natural gas",0.05,0.04,0.04,0.04,0.04,0.03,"0.04",0.04,0.04,0.04
+"Autogenerators","Natural gas",0.45,0.28,0.22,0.18,0.17,0.19,"0.15",0.14,0.12,0.13
+"Autogenerators","Natural gas",0.08,0.05,0.04,0.03,0.03,0.03,"0.03",0.02,0.02,0.02
+"Autogenerators","Natural gas",0.1,0.09,0.08,0.09,0.09,0.08,"0.08",0.06,0.05,0.05
+"Autogenerators","Natural gas",0.04,0.03,0.03,0.03,0.03,0.04,"0.03",0.02,0.02,0.02
+"Autogenerators","Natural gas",0.07,0.05,0.04,0.06,0.05,0.06,"0.05",0.04,0.04,0.03
+"Autogenerators","Natural gas",0.15,0.13,0.11,0.13,0.13,0.12,"0.11",0.08,0.07,0.07
+"Autogenerators","Natural gas",0.05,0.04,0.04,0.04,0.04,0.04,"0.04",0.03,0.02,0.02
+"Autogenerators","Natural gas",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Autogenerators","Natural gas",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.01,0.01,0.01
+"Autogenerators","Natural gas",0.05,0.04,0.03,0.03,0.03,0.03,"0.03",0.02,0.02,0.02
+"Autogenerators","Natural gas",0.02,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Autogenerators","Natural gas",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Autogenerators","Natural gas",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Autogenerators","Natural gas",0.02,0.02,0.03,0.03,0.04,0.03,"0.03",0.03,0.03,0.04
+"Autogenerators","Natural gas",0.05,0.04,0.04,0.04,0.04,0.05,"0.05",0.05,0.05,0.05
+"Autogenerators","Natural gas",0.05,0.05,0.05,0.05,0.05,0.05,"0.06",0.06,0.05,0.05
+"Autogenerators","Natural gas",0.04,0.04,0.05,0.05,0.05,0.05,"7.0000000000000007E-2",0.08,0.08,0.08
+"Autogenerators","Natural gas",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Autogenerators","Natural gas",0.01,0.01,0.01,0.01,0.01,0.02,"0.02",0.02,0.02,0.02
+"House and garden machinery","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"House and garden machinery","Petrol",0.03,0.03,0.03,0.03,0.03,0.03,"0.03",0.03,0.03,0.03
+"House and garden machinery","Petrol",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"House and garden machinery","Petrol",0.06,0.06,0.06,0.06,0.06,0.06,"0.06",0.06,0.06,0.06
+"Industrial off-road mobile machinery","DERV",0.02,0.02,0.02,0.02,0.02,0.01,"0.01",0.01,0.01,0.01
+"Industrial off-road mobile machinery","DERV",0.04,0.03,0.03,0.03,0.03,0.02,"0.02",0.02,0.02,0.02
+"Industrial off-road mobile machinery","DERV",0.05,0.05,0.05,0.05,0.06,0.05,"0.05",0.06,0.06,0.07
+"Industrial off-road mobile machinery","DERV",0.1,0.1,0.09,0.1,0.1,0.09,"0.09",0.1,0.11,0.12
+"Industrial off-road mobile machinery","DERV",0.02,0.02,0.01,0.02,0.02,0.01,"0.02",0.02,0.02,0.02
+"Industrial off-road mobile machinery","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Industrial off-road mobile machinery","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Industrial off-road mobile machinery","Gas oil",0.16,0.14,0.1,0.09,0.07,0.09,"7.0000000000000007E-2",0.07,0.08,0.07
+"Industrial off-road mobile machinery","Gas oil",0.27,0.24,0.17,0.16,0.12,0.14,"0.1",0.1,0.12,0.1
+"Industrial off-road mobile machinery","Gas oil",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Industrial off-road mobile machinery","Gas oil",0.02,0.02,0.02,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Industrial off-road mobile machinery","Gas oil",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Industrial off-road mobile machinery","Gas oil",0.4,0.38,0.31,0.31,0.26,0.34,"0.26",0.28,0.34,0.29
+"Industrial off-road mobile machinery","Gas oil",0.75,0.71,0.55,0.55,0.45,0.59,"0.44",0.47,0.58,0.51
+"Industrial off-road mobile machinery","Gas oil",0.12,0.12,0.09,0.09,0.07,0.1,"7.0000000000000007E-2",0.08,0.09,0.08
+"Industrial off-road mobile machinery","Gas oil",0.02,0.02,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Industrial off-road mobile machinery","Gas oil",0.05,0.05,0.04,0.03,0.03,0.03,"0.02",0.02,0.03,0.02
+"Industrial off-road mobile machinery","Gas oil",0.02,0.02,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Industrial off-road mobile machinery","Gas oil",0.06,0.06,0.05,0.05,0.04,0.05,"0.04",0.04,0.05,0.04
+"Industrial off-road mobile machinery","Gas oil",0.02,0.02,0.02,0.02,0.01,0.02,"0.01",0.01,0.02,0.01
+"Industrial off-road mobile machinery","Gas oil",0.02,0.02,0.02,0.02,0.01,0.02,"0.01",0.01,0.02,0.02
+"Industrial off-road mobile machinery","Gas oil",0.02,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Industrial off-road mobile machinery","Gas oil",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Industrial off-road mobile machinery","Gas oil",0.02,0.02,0.02,0.02,0.01,0.02,"0.02",0.02,0.02,0.02
+"Industrial off-road mobile machinery","Gas oil",0.03,0.03,0.02,0.02,0.02,0.03,"0.02",0.02,0.03,0.02
+"Industrial off-road mobile machinery","Gas oil",0.03,0.03,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Industrial off-road mobile machinery","Gas oil",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Industrial off-road mobile machinery","Petrol",0.06,0.06,0.05,0.06,0.06,0.05,"0.05",0.06,0.06,0.06
+"Industrial off-road mobile machinery","Petrol",0.05,0.05,0.04,0.05,0.05,0.04,"0.04",0.05,0.05,0.05
+"Industrial off-road mobile machinery","Petrol",0.09,0.09,0.08,0.09,0.09,0.08,"0.08",0.09,0.1,0.1
+"Shipping - naval","Gas oil",0.3,0.29,0.29,0.3,0.27,0.25,"0.23",0.19,0.15,0.15
+"Ammonia production - feedstock use of gas","Natural gas",0.1,0.08,0.08,0.08,0.03,0.07,"7.0000000000000007E-2",0.07,0.08,0.01
+"Iron and steel - flaring","Blast furnace gas",0.18,0.2,0.06,0.11,0.09,0.07,"0.18",0.16,0.16,0.08
+"Iron and steel - flaring","Coke oven gas",0.04,0.04,0.01,0.05,0.07,0.02,"0.03",0.06,0.07,0.02
+"Shipping - international IPCC definition","Fuel oil",4.31,4.64,3.79,3.96,4.46,3.47,"2.65",3.4,3.74,3.69
+"Shipping - international IPCC definition","Gas oil",1.18,0.94,0.89,1.03,1.02,0.87,"0.89",1.02,1.19,1.36
+"Railways - intercity","Gas oil",0.22,0.22,0.22,0.22,0.22,0.22,"0.22",0.22,0.22,0.22
+"Railways - regional","Gas oil",0.24,0.24,0.24,0.24,0.24,0.24,"0.25",0.25,0.25,0.25
+"Railways - freight","Gas oil",0.2,0.19,0.19,0.19,0.19,0.21,"0.2",0.2,0.2,0.19
+"Aircraft - domestic take off and landing","Aviation spirit",0.02,0.02,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Aircraft - domestic take off and landing","Aviation turbine fuel",0.19,0.18,0.15,0.14,0.13,0.13,"0.13",0.12,0.12,0.12
+"Upstream oil and gas production - combustion at gas separation plant","LPG",0.02,0.02,0.02,0.02,0.02,0.01,"0.01",0.01,0.01,0.01
+"Upstream oil and gas production - combustion at gas separation plant","OPG",0.38,0.39,0.39,0.35,0.33,0.28,"0.26",0.25,0.26,0.29
+"Aircraft - domestic cruise","Aviation turbine fuel",0.59,0.56,0.5,0.46,0.44,0.42,"0.43",0.39,0.4,0.38
+"Aircraft - international cruise","Aviation turbine fuel",13.24,13.2,12.62,12.31,13.01,12.56,"12.48",12.52,12.67,12.67
+"Road transport - cars - rural driving","Petrol",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - rural driving","Petrol",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - rural driving","Petrol",0.03,0.03,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - cars - rural driving","Petrol",0.03,0.02,0.02,0.02,0.02,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - rural driving","Petrol",0.07,0.06,0.05,0.05,0.04,0.03,"0.03",0.03,0.03,0.02
+"Road transport - cars - rural driving","Petrol",0.03,0.02,0.02,0.02,0.02,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - rural driving","Petrol",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - rural driving","Petrol",0.16,0.17,0.17,0.18,0.18,0.18,"0.18",0.19,0.2,0.22
+"Road transport - cars - rural driving","Petrol",0.02,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - rural driving","Petrol",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - rural driving","Petrol",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - rural driving","Petrol",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - rural driving","Petrol",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - rural driving","Petrol",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - rural driving","Petrol",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - rural driving","Petrol",0.02,0.02,0.02,0.02,0.02,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - rural driving","Petrol",0.02,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - rural driving","Petrol",6.62,6.24,5.86,5.5,5.24,5.02,"4.87",4.71,4.55,4.47
+"Road transport - cars - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - rural driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - cars - rural driving","DERV",0.02,0.02,0.01,0.01,0.02,0.02,"0.01",0.01,0.01,0.01
+"Road transport - cars - rural driving","DERV",0.04,0.04,0.03,0.04,0.04,0.04,"0.04",0.04,0.04,0.04
+"Road transport - cars - rural driving","DERV",0.03,0.04,0.03,0.03,0.03,0.03,"0.03",0.03,0.03,0.03
+"Road transport - cars - rural driving","DERV",0.09,0.09,0.07,0.07,0.07,0.07,"0.06",0.07,0.06,0.06
+"Road transport - cars - rural driving","DERV",0.03,0.03,0.03,0.03,0.03,0.03,"0.03",0.03,0.03,0.03
+"Road transport - cars - rural driving","DERV",0.01,0.02,0.01,0.01,0.01,0.02,"0.01",0.02,0.01,0.02
+"Road transport - cars - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - rural driving","DERV",0.17,0.17,0.18,0.18,0.18,0.18,"0.18",0.19,0.2,0.21
+"Road transport - cars - rural driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.01",0.01,0.01,0.01
+"Road transport - cars - rural driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - cars - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - rural driving","DERV",0.02,0.02,0.01,0.01,0.02,0.02,"0.01",0.02,0.01,0.02
+"Road transport - cars - rural driving","DERV",0.01,0.02,0.01,0.01,0.01,0.02,"0.01",0.01,0.01,0.02
+"Road transport - cars - rural driving","DERV",0.02,0.02,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - rural driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - cars - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - rural driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - cars - rural driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.01",0.02,0.02,0.02
+"Road transport - cars - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - rural driving","DERV",0.02,0.02,0.01,0.01,0.01,0.02,"0.01",0.01,0.01,0.01
+"Road transport - cars - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - rural driving","DERV",0.03,0.03,0.03,0.03,0.03,0.03,"0.02",0.02,0.02,0.02
+"Road transport - cars - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - rural driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - cars - rural driving","DERV",2.44,2.59,2.77,2.9,3.06,3.22,"3.42",3.64,3.96,4.2
+"Road transport - LGVs - rural driving","Petrol",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - rural driving","Petrol",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - rural driving","Petrol",0.02,0.02,0.02,0.02,0.02,0.02,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - rural driving","Petrol",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - rural driving","Petrol",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - rural driving","Petrol",0.02,0.02,0.02,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - rural driving","DERV",0.06,0.06,0.06,0.06,0.06,0.06,"0.06",0.06,0.07,0.07
+"Road transport - LGVs - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - rural driving","DERV",0.03,0.03,0.03,0.03,0.03,0.03,"0.03",0.03,0.04,0.04
+"Road transport - LGVs - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - rural driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - LGVs - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - rural driving","DERV",0.06,0.06,0.06,0.06,0.06,0.06,"0.06",0.07,0.07,0.08
+"Road transport - LGVs - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - rural driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.03,0.03
+"Road transport - LGVs - rural driving","DERV",0.07,0.06,0.06,0.06,0.06,0.06,"7.0000000000000007E-2",0.07,0.08,0.08
+"Road transport - LGVs - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - rural driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - LGVs - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.02,0.02,0.02
+"Road transport - LGVs - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - rural driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - LGVs - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - rural driving","DERV",0.14,0.14,0.14,0.14,0.14,0.14,"0.15",0.16,0.17,0.18
+"Road transport - LGVs - rural driving","DERV",0.16,0.15,0.15,0.15,0.14,0.14,"0.15",0.15,0.16,0.17
+"Road transport - LGVs - rural driving","DERV",0.29,0.28,0.28,0.3,0.3,0.3,"0.31",0.33,0.35,0.38
+"Road transport - LGVs - rural driving","DERV",0.12,0.11,0.11,0.12,0.12,0.12,"0.12",0.13,0.14,0.15
+"Road transport - LGVs - rural driving","DERV",0.15,0.15,0.15,0.15,0.15,0.15,"0.16",0.17,0.18,0.19
+"Road transport - LGVs - rural driving","DERV",0.1,0.1,0.1,0.1,0.1,0.1,"0.1",0.11,0.12,0.12
+"Road transport - LGVs - rural driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - LGVs - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - rural driving","DERV",0.13,0.13,0.13,0.13,0.13,0.13,"0.14000000000000001",0.14,0.15,0.16
+"Road transport - LGVs - rural driving","DERV",0.1,0.09,0.09,0.09,0.09,0.09,"0.1",0.1,0.11,0.12
+"Road transport - LGVs - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - rural driving","DERV",0.08,0.08,0.08,0.08,0.08,0.08,"0.09",0.09,0.1,0.1
+"Road transport - LGVs - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - rural driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.03
+"Road transport - LGVs - rural driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.03
+"Road transport - LGVs - rural driving","DERV",0.03,0.03,0.02,0.03,0.03,0.03,"0.03",0.03,0.03,0.03
+"Road transport - LGVs - rural driving","DERV",0.06,0.06,0.06,0.06,0.06,0.06,"0.06",0.07,0.07,0.08
+"Road transport - LGVs - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - rural driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - LGVs - rural driving","DERV",0.23,0.22,0.22,0.23,0.23,0.23,"0.24",0.25,0.27,0.29
+"Road transport - buses and coaches - rural driving","DERV",0.38,0.35,0.35,0.35,0.32,0.3,"0.31",0.31,0.3,0.28
+"Road transport - HGV articulated - rural driving","DERV",0.01,0.02,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV articulated - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV articulated - rural driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - HGV articulated - rural driving","DERV",0.07,0.1,0.14,0.15,0.15,0.15,"0.15",0.15,0.16,0.16
+"Road transport - HGV articulated - rural driving","DERV",0.13,0.12,0.15,0.13,0.12,0.12,"0.12",0.13,0.13,0.14
+"Road transport - HGV articulated - rural driving","DERV",0.03,0.03,0.03,0.03,0.03,0.03,"0.03",0.03,0.03,0.03
+"Road transport - HGV articulated - rural driving","DERV",0.03,0.03,0.03,0.03,0.03,0.03,"0.03",0.03,0.03,0.03
+"Road transport - HGV articulated - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.02
+"Road transport - HGV articulated - rural driving","DERV",1.16,1.04,0.9,0.92,0.9,0.9,"0.89",0.91,0.96,0.98
+"Road transport - HGV articulated - rural driving","DERV",0.02,0.03,0.03,0.04,0.04,0.04,"0.04",0.04,0.04,0.04
+"Road transport - HGV rigid - rural driving","DERV",0.01,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - HGV rigid - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV rigid - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV rigid - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV rigid - rural driving","DERV",0.02,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV rigid - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV rigid - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV rigid - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV rigid - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV rigid - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV rigid - rural driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - HGV rigid - rural driving","DERV",0.1,0.1,0.09,0.1,0.09,0.09,"0.09",0.09,0.1,0.1
+"Road transport - HGV rigid - rural driving","DERV",0.03,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - HGV rigid - rural driving","DERV",0.03,0.03,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - HGV rigid - rural driving","DERV",0.05,0.05,0.04,0.04,0.04,0.04,"0.04",0.04,0.04,0.04
+"Road transport - HGV rigid - rural driving","DERV",0.02,0.02,0.02,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV rigid - rural driving","DERV",0.23,0.2,0.25,0.27,0.26,0.26,"0.26",0.26,0.27,0.28
+"Road transport - HGV rigid - rural driving","DERV",0.06,0.06,0.08,0.07,0.06,0.06,"0.06",0.06,0.07,0.07
+"Road transport - HGV rigid - rural driving","DERV",0.02,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV rigid - rural driving","DERV",0.02,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV rigid - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV rigid - rural driving","DERV",0.55,0.5,0.41,0.4,0.39,0.38,"0.38",0.38,0.4,0.41
+"Road transport - HGV rigid - rural driving","DERV",0.02,0.03,0.03,0.04,0.04,0.04,"0.04",0.04,0.04,0.04
+"Road transport - HGV rigid - rural driving","DERV",0.04,0.03,0.03,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - HGV rigid - rural driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - motorcycle (>50cc  4st) - rural driving","Petrol",0.08,0.08,0.08,0.07,0.07,0.07,"7.0000000000000007E-2",0.07,0.07,0.07
+"Road transport - cars - urban driving","Petrol",0.02,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","Petrol",0.02,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","Petrol",0.03,0.03,0.03,0.03,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - cars - urban driving","Petrol",0.03,0.03,0.02,0.02,0.02,0.02,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","Petrol",0.08,0.07,0.06,0.05,0.05,0.04,"0.03",0.03,0.03,0.03
+"Road transport - cars - urban driving","Petrol",0.03,0.03,0.02,0.02,0.02,0.02,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","Petrol",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","Petrol",0.18,0.19,0.2,0.2,0.2,0.21,"0.2",0.22,0.23,0.25
+"Road transport - cars - urban driving","Petrol",0.02,0.02,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","Petrol",0.02,0.02,0.02,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","Petrol",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","Petrol",0.02,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","Petrol",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","Petrol",0.02,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","Petrol",0.02,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","Petrol",0.02,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","Petrol",0.02,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","Petrol",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","Petrol",0.02,0.02,0.03,0.02,0.02,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","Petrol",0.02,0.02,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","Petrol",7.65,7.23,6.77,6.24,6,5.8,"5.52",5.45,5.36,5.28
+"Road transport - cars - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.01,0.02
+"Road transport - cars - urban driving","DERV",0.02,0.02,0.01,0.01,0.01,0.02,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","DERV",0.03,0.04,0.03,0.03,0.04,0.04,"0.03",0.04,0.03,0.04
+"Road transport - cars - urban driving","DERV",0.03,0.03,0.03,0.03,0.03,0.03,"0.03",0.03,0.02,0.03
+"Road transport - cars - urban driving","DERV",0.08,0.08,0.07,0.07,0.07,0.07,"0.06",0.06,0.05,0.06
+"Road transport - cars - urban driving","DERV",0.03,0.03,0.03,0.03,0.03,0.03,"0.02",0.03,0.02,0.02
+"Road transport - cars - urban driving","DERV",0.01,0.02,0.01,0.01,0.01,0.02,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","DERV",0.16,0.17,0.17,0.18,0.18,0.18,"0.17",0.17,0.17,0.18
+"Road transport - cars - urban driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - cars - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","DERV",0.02,0.02,0.01,0.01,0.01,0.02,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","DERV",0.01,0.02,0.01,0.01,0.01,0.02,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","DERV",0.02,0.02,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - cars - urban driving","DERV",0.02,0.02,0.01,0.02,0.02,0.02,"0.01",0.02,0.01,0.01
+"Road transport - cars - urban driving","DERV",0.02,0.02,0.01,0.01,0.02,0.02,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","DERV",0.02,0.02,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","DERV",0.03,0.03,0.03,0.03,0.03,0.03,"0.02",0.02,0.02,0.02
+"Road transport - cars - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - urban driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.01,0.01
+"Road transport - cars - urban driving","DERV",2.41,2.46,2.66,2.77,2.91,3.11,"3.28",3.3,3.39,3.57
+"Road transport - LGVs - urban driving","Petrol",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - urban driving","Petrol",0.02,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - urban driving","Petrol",0.03,0.03,0.02,0.02,0.02,0.02,"0.02",0.02,0.01,0.01
+"Road transport - LGVs - urban driving","Petrol",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - urban driving","Petrol",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - urban driving","Petrol",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - urban driving","Petrol",0.02,0.02,0.02,0.02,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - urban driving","DERV",0.05,0.05,0.05,0.05,0.05,0.05,"0.05",0.05,0.06,0.06
+"Road transport - LGVs - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - urban driving","DERV",0.03,0.03,0.03,0.03,0.03,0.03,"0.03",0.03,0.03,0.03
+"Road transport - LGVs - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - urban driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - LGVs - urban driving","DERV",0.05,0.05,0.05,0.05,0.05,0.05,"0.05",0.05,0.06,0.06
+"Road transport - LGVs - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - urban driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - LGVs - urban driving","DERV",0.06,0.05,0.05,0.05,0.06,0.06,"0.06",0.06,0.06,0.06
+"Road transport - LGVs - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.02
+"Road transport - LGVs - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.02,0.02
+"Road transport - LGVs - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - urban driving","DERV",0.12,0.12,0.12,0.12,0.12,0.12,"0.12",0.13,0.14,0.14
+"Road transport - LGVs - urban driving","DERV",0.14,0.13,0.12,0.12,0.12,0.12,"0.12",0.13,0.13,0.14
+"Road transport - LGVs - urban driving","DERV",0.25,0.24,0.24,0.25,0.25,0.26,"0.26",0.28,0.29,0.3
+"Road transport - LGVs - urban driving","DERV",0.1,0.1,0.1,0.1,0.1,0.1,"0.1",0.11,0.11,0.12
+"Road transport - LGVs - urban driving","DERV",0.13,0.13,0.12,0.13,0.13,0.13,"0.13",0.14,0.14,0.15
+"Road transport - LGVs - urban driving","DERV",0.09,0.08,0.08,0.08,0.08,0.09,"0.09",0.09,0.09,0.1
+"Road transport - LGVs - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.02,0.02,0.02
+"Road transport - LGVs - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - urban driving","DERV",0.12,0.11,0.11,0.11,0.11,0.11,"0.11",0.12,0.12,0.13
+"Road transport - LGVs - urban driving","DERV",0.08,0.08,0.08,0.08,0.08,0.08,"0.08",0.09,0.09,0.09
+"Road transport - LGVs - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - urban driving","DERV",0.07,0.07,0.07,0.07,0.07,0.07,"7.0000000000000007E-2",0.08,0.08,0.08
+"Road transport - LGVs - urban driving","DERV",0.01,0.01,0.01,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - LGVs - urban driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - LGVs - urban driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - LGVs - urban driving","DERV",0.05,0.05,0.05,0.05,0.05,0.05,"0.05",0.06,0.06,0.06
+"Road transport - LGVs - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.02,0.02,0.02
+"Road transport - LGVs - urban driving","DERV",0.2,0.19,0.19,0.19,0.2,0.2,"0.2",0.21,0.22,0.23
+"Road transport - buses and coaches - urban driving","DERV",1.15,1.01,1,1.03,0.95,0.91,"0.91",0.9,0.87,0.81
+"Road transport - HGV articulated - urban driving","DERV",0.02,0.02,0.03,0.04,0.04,0.03,"0.03",0.03,0.04,0.04
+"Road transport - HGV articulated - urban driving","DERV",0.03,0.03,0.04,0.03,0.03,0.03,"0.03",0.03,0.03,0.03
+"Road transport - HGV articulated - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV articulated - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV articulated - urban driving","DERV",0.29,0.25,0.22,0.22,0.22,0.21,"0.21",0.21,0.22,0.23
+"Road transport - HGV rigid - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV rigid - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV rigid - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV rigid - urban driving","DERV",0.07,0.06,0.06,0.06,0.06,0.06,"0.06",0.06,0.06,0.06
+"Road transport - HGV rigid - urban driving","DERV",0.02,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV rigid - urban driving","DERV",0.02,0.02,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV rigid - urban driving","DERV",0.03,0.03,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - HGV rigid - urban driving","DERV",0.15,0.13,0.16,0.17,0.17,0.17,"0.16",0.17,0.16,0.16
+"Road transport - HGV rigid - urban driving","DERV",0.04,0.04,0.05,0.04,0.04,0.04,"0.04",0.04,0.04,0.04
+"Road transport - HGV rigid - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV rigid - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV rigid - urban driving","DERV",0.35,0.32,0.26,0.25,0.25,0.24,"0.24",0.24,0.24,0.23
+"Road transport - HGV rigid - urban driving","DERV",0.01,0.02,0.02,0.03,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - HGV rigid - urban driving","DERV",0.02,0.02,0.02,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV rigid - urban driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - motorcycle (>50cc  4st) - urban driving","Petrol",0.12,0.1,0.1,0.09,0.08,0.08,"7.0000000000000007E-2",0.08,0.08,0.09
+"Road transport - cars - motorway driving","Petrol",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - motorway driving","Petrol",0.03,0.02,0.02,0.02,0.02,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - motorway driving","Petrol",0.06,0.07,0.07,0.07,0.07,0.07,"7.0000000000000007E-2",0.07,0.08,0.08
+"Road transport - cars - motorway driving","Petrol",2.63,2.46,2.38,2.22,2.1,2,"1.9",1.82,1.76,1.7
+"Road transport - cars - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - motorway driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - cars - motorway driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - cars - motorway driving","DERV",0.05,0.05,0.04,0.04,0.04,0.04,"0.04",0.04,0.03,0.04
+"Road transport - cars - motorway driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.01,0.02
+"Road transport - cars - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - motorway driving","DERV",0.1,0.1,0.1,0.1,0.11,0.11,"0.11",0.11,0.11,0.12
+"Road transport - cars - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - motorway driving","DERV",0.01,0.02,0.02,0.02,0.02,0.02,"0.01",0.01,0.01,0.01
+"Road transport - cars - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - cars - motorway driving","DERV",1.42,1.48,1.56,1.61,1.74,1.88,"2.02",2.08,2.23,2.35
+"Road transport - LGVs - motorway driving","Petrol",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - motorway driving","DERV",0.03,0.03,0.03,0.03,0.03,0.03,"0.03",0.03,0.04,0.04
+"Road transport - LGVs - motorway driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - LGVs - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - motorway driving","DERV",0.03,0.03,0.03,0.03,0.03,0.03,"0.03",0.03,0.04,0.04
+"Road transport - LGVs - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - motorway driving","DERV",0.03,0.03,0.03,0.03,0.03,0.04,"0.04",0.04,0.04,0.04
+"Road transport - LGVs - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - motorway driving","DERV",0.07,0.07,0.07,0.07,0.07,0.08,"0.08",0.08,0.09,0.09
+"Road transport - LGVs - motorway driving","DERV",0.08,0.08,0.07,0.07,0.08,0.08,"0.08",0.08,0.08,0.09
+"Road transport - LGVs - motorway driving","DERV",0.15,0.14,0.15,0.15,0.16,0.16,"0.17",0.17,0.18,0.19
+"Road transport - LGVs - motorway driving","DERV",0.06,0.06,0.06,0.06,0.06,0.06,"7.0000000000000007E-2",0.07,0.07,0.07
+"Road transport - LGVs - motorway driving","DERV",0.08,0.08,0.08,0.08,0.08,0.08,"0.09",0.09,0.09,0.1
+"Road transport - LGVs - motorway driving","DERV",0.05,0.05,0.05,0.05,0.05,0.05,"0.06",0.06,0.06,0.06
+"Road transport - LGVs - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - motorway driving","DERV",0.07,0.07,0.07,0.07,0.07,0.07,"7.0000000000000007E-2",0.08,0.08,0.08
+"Road transport - LGVs - motorway driving","DERV",0.05,0.05,0.05,0.05,0.05,0.05,"0.05",0.05,0.06,0.06
+"Road transport - LGVs - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - motorway driving","DERV",0.04,0.04,0.04,0.04,0.04,0.05,"0.05",0.05,0.05,0.05
+"Road transport - LGVs - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.02,0.02
+"Road transport - LGVs - motorway driving","DERV",0.03,0.03,0.03,0.03,0.03,0.03,"0.03",0.04,0.04,0.04
+"Road transport - LGVs - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - LGVs - motorway driving","DERV",0.12,0.11,0.11,0.12,0.12,0.13,"0.13",0.13,0.14,0.15
+"Road transport - buses and coaches - motorway driving","DERV",0.13,0.13,0.12,0.12,0.12,0.11,"0.12",0.11,0.11,0.1
+"Road transport - HGV articulated - motorway driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - HGV articulated - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV articulated - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV articulated - motorway driving","DERV",0.02,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV articulated - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV articulated - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV articulated - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV articulated - motorway driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.03",0.03,0.03,0.03
+"Road transport - HGV articulated - motorway driving","DERV",0.1,0.13,0.19,0.21,0.21,0.22,"0.22",0.23,0.24,0.25
+"Road transport - HGV articulated - motorway driving","DERV",0.19,0.17,0.21,0.18,0.18,0.18,"0.19",0.2,0.21,0.21
+"Road transport - HGV articulated - motorway driving","DERV",0.04,0.04,0.04,0.04,0.04,0.04,"0.05",0.05,0.05,0.05
+"Road transport - HGV articulated - motorway driving","DERV",0.04,0.04,0.04,0.04,0.04,0.04,"0.05",0.05,0.05,0.05
+"Road transport - HGV articulated - motorway driving","DERV",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - HGV articulated - motorway driving","DERV",1.61,1.43,1.23,1.31,1.3,1.33,"1.36",1.41,1.48,1.52
+"Road transport - HGV articulated - motorway driving","DERV",0.02,0.04,0.05,0.06,0.06,0.06,"0.06",0.06,0.07,0.07
+"Road transport - HGV rigid - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV rigid - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV rigid - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV rigid - motorway driving","DERV",0.06,0.06,0.05,0.06,0.05,0.05,"0.05",0.05,0.06,0.06
+"Road transport - HGV rigid - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV rigid - motorway driving","DERV",0.02,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV rigid - motorway driving","DERV",0.03,0.03,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.03
+"Road transport - HGV rigid - motorway driving","DERV",0.13,0.11,0.15,0.17,0.15,0.15,"0.14000000000000001",0.15,0.17,0.17
+"Road transport - HGV rigid - motorway driving","DERV",0.04,0.04,0.05,0.04,0.04,0.04,"0.04",0.04,0.04,0.04
+"Road transport - HGV rigid - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV rigid - motorway driving","DERV",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - HGV rigid - motorway driving","DERV",0.3,0.29,0.24,0.25,0.23,0.22,"0.21",0.22,0.24,0.25
+"Road transport - HGV rigid - motorway driving","DERV",0.01,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - HGV rigid - motorway driving","DERV",0.02,0.02,0.02,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - motorcycle (>50cc  4st) - motorway driving","Petrol",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Road transport - all vehicles LPG use","LPG",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - all vehicles LPG use","LPG",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - all vehicles LPG use","LPG",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.01,0.01,0.01
+"Road transport - all vehicles LPG use","LPG",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - all vehicles LPG use","LPG",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Road transport - all vehicles LPG use","LPG",0.01,0.02,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Rail - coal","Coal",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Upstream Gas Production - fuel combustion","Gas oil",0.02,0.02,0.02,0.03,0.04,0.05,"7.0000000000000007E-2",0.06,0.09,0.06
+"Upstream Gas Production - fuel combustion","Natural gas",1.55,1.57,1.53,1.56,1.38,1.27,"1.3",1.33,1.39,1.21
+"Aircraft between UK and CDs - TOL","Aviation turbine fuel",0.01,0.01,0.01,0.02,0.01,0.01,"0.01",0.01,0.01,0.01
+"Aircraft between UK and CDs - Cruise","Aviation turbine fuel",0.04,0.04,0.03,0.04,0.04,0.04,"0.03",0.03,0.03,0.02
+"Aircraft between UK and Gibraltar - Cruise","Aviation turbine fuel",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.02
+"Autogeneration - exported to grid","Natural gas",0.01,0.01,0.02,0.02,0.02,0.02,"0.01",0.01,0.02,0.02
+"Autogeneration - exported to grid","Natural gas",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Autogeneration - exported to grid","Natural gas",0.01,0.01,0.02,0.02,0.01,0.02,"0.01",0.01,0.02,0.01
+"Autogeneration - exported to grid","Natural gas",0.01,0.01,0.02,0.02,0.02,0.02,"0.01",0.02,0.02,0.02
+"Autogeneration - exported to grid","Natural gas",0.02,0.02,0.03,0.03,0.02,0.02,"0.02",0.02,0.03,0.02
+"Autogeneration - exported to grid","Natural gas",0.02,0.03,0.03,0.03,0.03,0.03,"0.03",0.03,0.03,0.03
+"Autogeneration - exported to grid","Natural gas",0.03,0.03,0.03,0.03,0.03,0.03,"0.03",0.03,0.03,0.03
+"Autogeneration - exported to grid","Natural gas",0.25,0.19,0.2,0.14,0.14,0.16,"0.1",0.09,0.09,0.1
+"Autogeneration - exported to grid","Natural gas",0.04,0.03,0.04,0.03,0.02,0.03,"0.02",0.02,0.02,0.02
+"Autogeneration - exported to grid","Natural gas",0.05,0.06,0.07,0.07,0.07,0.07,"0.05",0.04,0.04,0.04
+"Autogeneration - exported to grid","Natural gas",0.02,0.02,0.03,0.02,0.02,0.03,"0.02",0.02,0.02,0.02
+"Autogeneration - exported to grid","Natural gas",0.04,0.04,0.04,0.05,0.04,0.05,"0.03",0.03,0.03,0.03
+"Autogeneration - exported to grid","Natural gas",0.08,0.09,0.1,0.1,0.1,0.1,"0.08",0.06,0.06,0.06
+"Autogeneration - exported to grid","Natural gas",0.03,0.03,0.03,0.03,0.03,0.03,"0.03",0.02,0.02,0.02
+"Autogeneration - exported to grid","Natural gas",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Autogeneration - exported to grid","Natural gas",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Autogeneration - exported to grid","Natural gas",0.03,0.03,0.03,0.03,0.03,0.03,"0.02",0.01,0.01,0.01
+"Autogeneration - exported to grid","Natural gas",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Autogeneration - exported to grid","Natural gas",0.01,0.02,0.02,0.03,0.03,0.02,"0.02",0.02,0.03,0.03
+"Autogeneration - exported to grid","Natural gas",0.03,0.03,0.04,0.03,0.03,0.04,"0.04",0.03,0.04,0.04
+"Autogeneration - exported to grid","Natural gas",0.03,0.03,0.05,0.04,0.04,0.04,"0.04",0.04,0.04,0.04
+"Autogeneration - exported to grid","Natural gas",0.02,0.03,0.05,0.04,0.04,0.05,"0.05",0.05,0.06,0.06
+"Autogeneration - exported to grid","Natural gas",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Autogeneration - exported to grid","Natural gas",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Non-Ferrous Metal (combustion)","Coal",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Non-Ferrous Metal (combustion)","Coal",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.01
+"Non-Ferrous Metal (combustion)","Natural gas",0.11,0.11,0.1,0.1,0.1,0.1,"0.1",0.1,0.09,0.09
+"Non-Ferrous Metal (combustion)","Natural gas",0.15,0.14,0.1,0.1,0.1,0.11,"0.1",0.1,0.09,0.09
+"Chemicals (combustion)","Coal",0.13,0.18,0.22,0.22,0.26,0.2,"0.15",0.11,0.05,0.05
+"Chemicals (combustion)","Coal",0.01,0.02,0.02,0.02,0.03,0.02,"0.02",0.01,0.01,0.01
+"Chemicals (combustion)","Fuel oil",0.05,0.06,0.04,0.07,0.05,0.01,"0.01",0.01,0.01,0.01
+"Chemicals (combustion)","Fuel oil",0.04,0.05,0.03,0.05,0.04,0.01,"0.01",0.01,0.01,0.01
+"Chemicals (combustion)","Natural gas",0.81,0.82,0.68,0.68,0.58,0.59,"0.63",0.57,0.57,0.58
+"Chemicals (combustion)","Natural gas",0.1,0.09,0.09,0.09,0.09,0.05,"7.0000000000000007E-2",0.05,0.04,0.05
+"Chemicals (combustion)","Natural gas",1.2,1.21,1,1,0.86,0.86,"0.93",0.84,0.84,0.85
+"Chemicals (combustion)","Natural gas",0.4,0.4,0.33,0.33,0.28,0.29,"0.31",0.28,0.28,0.28
+"Chemicals (combustion)","Natural gas",0.04,0.04,0.03,0.03,0.03,0.03,"0.03",0.03,0.03,0.03
+"Chemicals (combustion)","Natural gas",0.12,0.12,0.1,0.1,0.08,0.08,"0.09",0.08,0.08,0.08
+"Chemicals (combustion)","Natural gas",0.16,0.16,0.14,0.14,0.12,0.12,"0.13",0.11,0.11,0.11
+"Chemicals (combustion)","Natural gas",0.41,0.41,0.26,0.26,0.22,0.22,"0.24",0.22,0.22,0.22
+"Pulp, Paper and Print (combustion)","Coal",0.1,0.1,0.09,0.09,0.08,0.09,"0.1",0.11,0.09,0.09
+"Pulp, Paper and Print (combustion)","Natural gas",1.24,1.15,0.96,0.92,0.88,0.85,"0.92",0.87,0.8,0.71
+"Pulp, Paper and Print (combustion)","Natural gas",0.22,0.21,0.17,0.16,0.16,0.15,"0.16",0.16,0.14,0.13
+"Food & drink, tobacco (combustion)","Coal",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Food & drink, tobacco (combustion)","Coal",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Food & drink, tobacco (combustion)","Coal",0.02,0.02,0.02,0.02,0.02,0.02,"0.03",0.03,0.03,0.02
+"Food & drink, tobacco (combustion)","Fuel oil",0.01,0.01,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Food & drink, tobacco (combustion)","Fuel oil",0.01,0.01,0.01,0.02,0.02,0.01,"0.02",0.02,0.02,0.01
+"Food & drink, tobacco (combustion)","Fuel oil",0.01,0.01,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Food & drink, tobacco (combustion)","Fuel oil",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Food & drink, tobacco (combustion)","Fuel oil",0.02,0.03,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.01
+"Food & drink, tobacco (combustion)","Natural gas",0.19,0.19,0.17,0.18,0.18,0.18,"0.19",0.18,0.17,0.18
+"Food & drink, tobacco (combustion)","Natural gas",0.24,0.24,0.22,0.23,0.23,0.23,"0.24",0.23,0.22,0.22
+"Food & drink, tobacco (combustion)","Natural gas",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Food & drink, tobacco (combustion)","Natural gas",0.19,0.18,0.16,0.18,0.18,0.18,"0.18",0.17,0.17,0.17
+"Food & drink, tobacco (combustion)","Natural gas",0.21,0.2,0.19,0.2,0.2,0.2,"0.2",0.2,0.19,0.19
+"Food & drink, tobacco (combustion)","Natural gas",0.31,0.3,0.27,0.29,0.29,0.29,"0.3",0.29,0.28,0.28
+"Food & drink, tobacco (combustion)","Natural gas",0.38,0.37,0.34,0.37,0.37,0.37,"0.37",0.36,0.34,0.35
+"Food & drink, tobacco (combustion)","Natural gas",0.06,0.05,0.05,0.05,0.05,0.05,"0.05",0.05,0.05,0.05
+"Food & drink, tobacco (combustion)","Natural gas",0.45,0.43,0.32,0.34,0.34,0.34,"0.35",0.33,0.32,0.33
+"Food & drink, tobacco (combustion)","Natural gas",0.03,0.03,0.02,0.03,0.03,0.03,"0.03",0.02,0.02,0.02
+"Food & drink, tobacco (combustion)","Natural gas",0.01,0.01,0.01,0.01,0.01,0.01,"0.01",0.01,0.01,0.01
+"Motorboats / workboats (e.g. canal boats, dredgers, service boats, tourist boats, river boats)","DERV",0.09,0.09,0.1,0.1,0.1,0.1,"0.1",0.1,0.11,0.12
+"Motorboats / workboats (e.g. canal boats, dredgers, service boats, tourist boats, river boats)","Gas oil",0.03,0.03,0.03,0.04,0.04,0.04,"0.04",0.04,0.04,0.04
+"Motorboats / workboats (e.g. canal boats, dredgers, service boats, tourist boats, river boats)","Petrol",0.06,0.06,0.06,0.06,0.06,0.06,"0.06",0.07,0.07,0.07
+"Personal watercraft e.g. jet ski","Petrol",0.04,0.04,0.04,0.04,0.04,0.04,"0.04",0.04,0.05,0.05
+"Shipping between UK and Gibraltar","Fuel oil",0.01,0.02,0.01,0.02,0.02,0.02,"0.01",0.03,0.04,0.04
+"Aircraft between UK and Bermuda - Cruise","Aviation turbine fuel",0.02,0.02,0.02,0.02,0.02,0.02,"0.02",0.02,0.02,0.02
+"Supressed data","Total",7.48,6.9,6.11,5.92,5.43,5.56,"4.9400000000000004",4.33,4.78,4.76
+"ALL","Total",225.03,222.32,203.62,211.12,194.37,195.18,"191",178.02,174.4,169.83
